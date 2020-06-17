@@ -1,0 +1,10 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: api
+  main:
+    allow-bean-definition-overriding: true
+  redisson:
+    address: redis://139.224.236.165:6379
+    password: Qekj123123
