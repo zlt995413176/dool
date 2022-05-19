@@ -24,4 +24,6 @@ public class BdInviteServiceImpl implements BdInviteService {
     public List<BdInvite> list() {
        return bdInviteMapper.selectAll();
     }
+    
+    
 }
