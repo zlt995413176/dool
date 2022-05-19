@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  * @author zenglt
- * @date 2020/4/17 16:30
+ * @date 2022/5/17 16:30
  */
 @RestController
 @RequestMapping("/invite")
